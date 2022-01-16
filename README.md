@@ -1,2 +1,2 @@
 # MAT_350
-Projects from my Linear Algebra class
+MATLAB Projects from my Linear Algebra class
