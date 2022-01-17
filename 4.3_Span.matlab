@@ -16,4 +16,4 @@ w=[2 1 1 1]
 Aw = [A w.' ]
 %Find the reduced matrix, storing it in reducedAw.  Is w is in the span of the vectors?
 reducedAw = rref(Aw)
-%There are an infinite amount of solutions given the row of all 0's and the free variable.
+%There is no solution because of the row of all 0's
